@@ -1,0 +1,8 @@
+1: git clone <git repository address>
+2: change to git directory in machine
+3: git status for checking status
+4: edit any file or add any new file
+5: git status after editing, it will show the edit status
+6: git add . or git add * for adding all files for commitment
+7: git commit -m "Write any thing here"
+8: git push
